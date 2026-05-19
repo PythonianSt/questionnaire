@@ -1,0 +1,2 @@
+timestamp_bkk,student_code,faculty,sex,age,tel,concern,bw_kg,ht_cm,bmi,bmi_category,sbp,dbp,pulse,temp_c,rr,spo2,phq2_score,gad2_score,stress_0_10,fatigue_0_10,sleep_quality,exercise,breakfast,sweet_drink,transport,helmet,near_miss,risky_behavior,bp_flag,mental_flag,safety_flag
+2026-05-19 10:38:43,3100800546087,วิทยาศาสตร์การกีฬา,ชาย,18,0900125513,ผิวหนัง,67.2,173.0,22.5,ปกติ,120,80,112,36.8,18,98,2,2,3,1,ดี,≥5 วัน/สัปดาห์,ทุกวัน,1–2 ครั้ง/สัปดาห์,รถยนต์,ไม่เกี่ยวข้อง,ไม่เคย,"ไม่พบพฤติกรรมเสี่ยง, ขับเร็ว",yellow,green,green
